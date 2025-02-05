@@ -30,5 +30,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=begadmohamed&" alt="begadmohamed" /></p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/LeetCode%20Streak-1-green?logo=leetcode" width="200">
+  <img src="https://img.shields.io/badge/LeetCode%20Streak-1-green?logo=leetcode" width="500">
 </p>
