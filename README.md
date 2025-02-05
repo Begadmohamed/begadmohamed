@@ -29,7 +29,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=begadmohamed&" alt="begadmohamed" /></p>
 
-<p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="20">
-  <img src="https://img.shields.io/badge/LeetCode%20Streak-1-green">
-</p>
+![LeetCode Streak](https://img.shields.io/badge/LeetCode%20Streak-1-green?logo=leetcode)
