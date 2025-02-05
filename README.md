@@ -28,3 +28,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=begadmohamed&show_icons=true&locale=en" alt="begadmohamed" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=begadmohamed&" alt="begadmohamed" /></p>
+
+![LeetCode Streak](https://img.shields.io/badge/LeetCode%20Streak-30-green)
