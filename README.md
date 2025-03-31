@@ -29,6 +29,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=begadmohamed&" alt="begadmohamed" /></p>
 
+##LeetCode Achivements
 ![March 2025 LeetCode Badge](https://raw.githubusercontent.com/Begadmohamed/begadmohamed/refs/heads/main/202503.gif)
 
 
