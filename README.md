@@ -31,7 +31,7 @@
 
 ## LeetCode Achievements
 <a href="https://leetcode.com/u/bigmTourist/">
-    <img src="https://raw.githubusercontent.com/Begadmohamed/begadmohamed/refs/heads/main/202503.gif" width="200">
+    <img src="https://raw.githubusercontent.com/Begadmohamed/begadmohamed/refs/heads/main/202503.gif" width="100">
 </a>
 
 
