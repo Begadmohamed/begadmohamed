@@ -34,5 +34,7 @@
     <img src="https://raw.githubusercontent.com/Begadmohamed/begadmohamed/refs/heads/main/202503.gif" width="100">
 </a>
 
+### ✨ Certifications
 
+<p align="left"> <img src="https://raw.githubusercontent.com/Begadmohamed/begadmohamed/main/Screenshot%202025-02-14%20182136.png" alt="Machine Learning Specialization - Stanford University" width="300"/> <img src="https://raw.githubusercontent.com/Begadmohamed/begadmohamed/940e18653f328b42318f9d5605d29b286ee80e68/Screenshot%202025-05-23%20055532.png" alt="Intermediate SQL - DataCamp" width="300"/> <img src="https://raw.githubusercontent.com/Begadmohamed/begadmohamed/940e18653f328b42318f9d5605d29b286ee80e68/aws-academy-graduate-aws-academy-machine-learning-foundations.png" alt="AWS Academy Machine Learning Foundations" width="300"/> </p>
 
