@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=begadmohamed" alt="begadmohamed" /></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning and Web developement**
+- 🌱 I’m currently learning **Machine Learning and SQL Database**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Begadmohamed](https://github.com/Begadmohamed)
 
@@ -36,4 +36,5 @@
 
 ### ✨ Certifications
 
-<p align="left"> <img src="https://raw.githubusercontent.com/Begadmohamed/begadmohamed/main/Screenshot%202025-02-14%20182136.png" alt="Machine Learning Specialization - Stanford University" width="300" style="margin-right: 20px; margin-bottom: 20px;"/> <img src="https://raw.githubusercontent.com/Begadmohamed/begadmohamed/940e18653f328b42318f9d5605d29b286ee80e68/Screenshot%202025-05-23%20055532.png" alt="Intermediate SQL - DataCamp" width="300" style="margin-right: 20px; margin-bottom: 20px;"/> <img src="https://raw.githubusercontent.com/Begadmohamed/begadmohamed/940e18653f328b42318f9d5605d29b286ee80e68/aws-academy-graduate-aws-academy-machine-learning-foundations.png" alt="AWS Academy Machine Learning Foundations" width="300" style="margin-bottom: 20px;"/> </p>
+<p align="left"> <img src="https://raw.githubusercontent.com/Begadmohamed/begadmohamed/main/Screenshot%202025-02-14%20182136.png" alt="Machine Learning Specialization - Stanford University" width="200"/> <img src="https://raw.githubusercontent.com/Begadmohamed/begadmohamed/940e18653f328b42318f9d5605d29b286ee80e68/Screenshot%202025-05-23%20055532.png" alt="Intermediate SQL - DataCamp" width="250"/> <img src="https://raw.githubusercontent.com/Begadmohamed/begadmohamed/940e18653f328b42318f9d5605d29b286ee80e68/aws-academy-graduate-aws-academy-machine-learning-foundations.png" alt="AWS Academy Machine Learning Foundations" width="200"/> </p>
+
