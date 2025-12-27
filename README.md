@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Begad</h1>
-<h3 align="center">An undergraduate Computer Engineer from Egypt</h3>
+<h3 align="center">An undergraduate ML Engineer from Egypt</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=begadmohamed&label=Profile%20views&color=0e75b6&style=flat" alt="begadmohamed" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=begadmohamed" alt="begadmohamed" /></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning and SQL Database**
+- 🌱 I’m currently learning **Machine Learning and AI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Begadmohamed](https://github.com/Begadmohamed)
 
